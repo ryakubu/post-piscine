@@ -1,0 +1,4 @@
+This command takes the contents of file1.txt and file2.txt and writes them into combined.txt.
+The cat command is often used with piping to send the content of files to other commands.
+
+This is useful for processing text data.

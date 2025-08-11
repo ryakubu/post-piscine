@@ -1,0 +1,3 @@
+The cat command is often used with piping to send the content of files to other commands.
+
+This is useful for processing text data.
